@@ -1,3 +1,5 @@
+https://bugs.openjdk.org/browse/JDK-8207760 - already resolved
+
 # Reproduce bug in JDK XSLT Transformer
 
 And exception "SAXException: Invalid UTF-16 surrogate detected: d83c ?" 
